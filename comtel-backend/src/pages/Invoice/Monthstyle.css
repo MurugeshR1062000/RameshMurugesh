@@ -1,0 +1,47 @@
+th{
+    font-size: 19px;
+}
+#head{
+    font-size: 21px;
+    font-weight: bold;
+}
+td, th {
+    border: 2px solid #c0bebe;
+    text-align: center;
+    padding: 15px;
+  }
+ /* #button:active{
+    color:rgb(238, 41, 15);
+} */
+
+/* #button:focus{
+    color:rgb(192, 25, 13);
+} */
+/* #button:focus {
+    outline: blue auto 5px; 
+}
+#button1 {
+    padding: 5px;
+    background: rgb(246, 248, 246);
+  }
+  #button1:visited {
+    background: red;
+  } */
+  /* option:checked, option:hover 
+  {
+  Color:#614767;
+  background:#e7e0e9;
+  } */
+  ::selection {
+    background-color: #222;
+    color: white;
+}
+  /* .others {
+    color:auto
+}
+.other1 {
+    color:rgb(24, 82, 6)
+}
+.other2 {
+    color:rgb(236, 22, 22)
+} */
