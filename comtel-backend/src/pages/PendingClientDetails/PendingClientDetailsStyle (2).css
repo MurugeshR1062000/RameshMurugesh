@@ -1,0 +1,10 @@
+td,th {
+    border: 2px solid #dddddd;
+    text-align: center;
+    padding: 10px;
+}
+
+table{
+    width: 80%;
+    height: 80%
+}
